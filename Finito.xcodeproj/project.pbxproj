@@ -56,7 +56,6 @@
 		9824967721D569A800B83E6B /* Finito */ = {
 			isa = PBXGroup;
 			children = (
-				9824968D21D56E4000B83E6B /* assets */,
 				9824967821D569A800B83E6B /* AppDelegate.swift */,
 				9824967A21D569A800B83E6B /* ViewController.swift */,
 				9824967C21D569A800B83E6B /* Main.storyboard */,
@@ -66,13 +65,6 @@
 				9824967F21D569A800B83E6B /* Finito.xcdatamodeld */,
 			);
 			path = Finito;
-			sourceTree = "<group>";
-		};
-		9824968D21D56E4000B83E6B /* assets */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = assets;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
